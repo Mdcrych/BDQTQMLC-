@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/CustomerPage.qml</file>
+        <file>qml/MenuItemPage.qml</file>
+        <file>qml/OrderPage.qml</file>
+        <file>qml/AddEditCustomerDialog.qml</file>
+        <file>qml/AddEditMenuItemDialog.qml</file>
+        <file>qml/AddEditOrderDialog.qml</file>
+    </qresource>
+</RCC>
